@@ -1,0 +1,43 @@
+﻿  ConsoleApplication1.cpp
+C:\Desktop\vs code\OOP\clsString.h(38,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Desktop\vs code\OOP\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Desktop\vs code\OOP\clsString.h(55,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Desktop\vs code\OOP\clsString.h(86,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(113,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(139,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(153,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(172,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(192,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Desktop\vs code\OOP\clsString.h(197,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(219,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(240,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(261,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(298,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(323,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Desktop\vs code\OOP\clsString.h(352,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsString.h(371,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Desktop\vs code\OOP\clsString.h(496,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsUtil.h(64,1): warning C4102: 'defualt': unreferenced label
+C:\Desktop\vs code\OOP\clsUtil.h(287,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Desktop\vs code\OOP\clsUtil.h(301,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Desktop\vs code\ConsoleApplication1\clsUser.h(199,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Desktop\vs code\ConsoleApplication1\clsUser.h(26): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(207,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(152): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(421,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(434,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsAddNewClientScreen.h(30,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsUpdateClientScreen.h(47,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsTransferScreen.h(42,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsTransferScreen.h(47,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsUpdateCurrencyRateScreen.h(17,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsCurrencyCalculatorScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Desktop\vs code\ConsoleApplication1\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Desktop\vs code\ConsoleApplication1\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Desktop\vs code\ConsoleApplication1\Debug\ConsoleApplication1.exe
